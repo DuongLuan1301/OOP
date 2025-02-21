@@ -1,1 +1,1 @@
-# Pratice OOP at school
+# Practice OOP at school
